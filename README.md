@@ -13,3 +13,5 @@ The **Kashmir Valley**, also known as the Vale of Kashmir, is an intermontane va
 * Kashmiri pulao
 * Apple badam mix
 * Walnut fries
+
+ [link toMystats](MyStats.md)
