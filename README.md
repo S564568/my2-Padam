@@ -8,3 +8,8 @@ The **Kashmir Valley**, also known as the Vale of Kashmir, is an intermontane va
  1. Boating at Dal lake
  2. Visting Apple gardens
  3.  playing with Snow
+
+# List of dishes of food that you can get at your vacation spot
+* Kashmiri pulao
+* Apple badam mix
+* Walnut fries
