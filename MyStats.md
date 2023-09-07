@@ -17,6 +17,12 @@ Sports can help you reach your fitness goals and maintain a healthy weight. Howe
 |BADMINTON|FOCUS|3|
 |FOOTBALL|STAMINA|1|
 
+****
 
+## QUOTES:
+
+>"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking
+
+>"Science is not only a disciple of reason but also one of romance and passion." - Stephen Jay Gould
 
 
