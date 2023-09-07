@@ -25,4 +25,27 @@ Sports can help you reach your fitness goals and maintain a healthy weight. Howe
 
 >"Science is not only a disciple of reason but also one of romance and passion." - *Stephen Jay Gould*
 
+## CODE FENCING:
+
+MY STACKOVERFLOW LINK:<br>
+[STACK OVERFLOW](https://stackoverflow.com/questions/57423991/how-send-sms-in-php)
+
+CODE SNIPPET: ***PHP*** 
+```
+require('textmagic-sms-api-php/TextMagicAPI.php');
+
+// Set the username and password information
+$username = 'myusername';
+$password = 'mypassword';
+
+// Create a new instance of TM
+$router = new TextMagicAPI(array(
+	'username' => $username,
+	'password' => $password
+));
+
+// Send a text message to '999-123-4567'
+$result = $router->send('Wake up!', array(9991234567), true);
+
+
 
