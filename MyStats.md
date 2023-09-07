@@ -46,6 +46,6 @@ $router = new TextMagicAPI(array(
 
 // Send a text message to '999-123-4567'
 $result = $router->send('Wake up!', array(9991234567), true);
-
-
+```
+[css-tricks](https://css-tricks.com/snippets/php/send-a-text-message/)
 
